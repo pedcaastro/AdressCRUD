@@ -38,7 +38,5 @@
         <li>Abra um Pull Request.</li>
     </ol>
 
-<h2>Licença</h2>
-    <p>Este projeto está sob a licença <strong>[INSIRA A LICENÇA AQUI]</strong>. Veja o arquivo <em>LICENSE</em> para mais detalhes.</p>
 </body>
 </html>
