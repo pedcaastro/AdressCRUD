@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AdressPerson CRUD em Java</title>
-</head>
+
 <body>
     <h1>AdressPerson CRUD em Java</h1>
     <p>O projeto <strong>AdressPerson</strong> é uma aplicação Java que implementa operações básicas de CRUD (Criar, Ler, Atualizar, Deletar) para gerenciamento de um cadastro de pessoas. A aplicação permite adicionar novas pessoas ao banco de dados, consultar pessoas pelo sobrenome, e listar todas as pessoas cadastradas. Utilizando um modelo de dados simples, cada pessoa é registrada com um identificador único (<em>AdressID</em>), primeiro nome, último nome, número de telefone e email.</p>
